@@ -3,7 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../chatalytics-core" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../irc-client" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../irc-manager" vcs="Git" />
   </component>
 </project>

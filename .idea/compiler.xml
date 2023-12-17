@@ -7,8 +7,30 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
         </processorPath>
-        <module name="irc-client.main" />
+        <module name="chatalytics-core.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="irc-client" target="17" />
+      <module name="irc-client.aot" target="17" />
+      <module name="irc-client.aotTest" target="17" />
+      <module name="irc-client.main" target="17" />
+      <module name="irc-client.test" target="17" />
+      <module name="irc-manager" target="17" />
+      <module name="irc-manager.aot" target="17" />
+      <module name="irc-manager.aotTest" target="17" />
+      <module name="irc-manager.main" target="17" />
+      <module name="irc-manager.test" target="17" />
+      <module name="space.forloop.irc.client.irc-client" target="17" />
+      <module name="space.forloop.irc.client.irc-client.aot" target="17" />
+      <module name="space.forloop.irc.client.irc-client.aotTest" target="17" />
+      <module name="space.forloop.irc.client.irc-client.main" target="17" />
+      <module name="space.forloop.irc.client.irc-client.test" target="17" />
+      <module name="space.forloop.irc.manager.irc-manager" target="17" />
+      <module name="space.forloop.irc.manager.irc-manager.aot" target="17" />
+      <module name="space.forloop.irc.manager.irc-manager.aotTest" target="17" />
+      <module name="space.forloop.irc.manager.irc-manager.main" target="17" />
+      <module name="space.forloop.irc.manager.irc-manager.test" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

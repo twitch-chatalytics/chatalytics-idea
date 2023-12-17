@@ -12,18 +12,18 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../irc-client" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../chatalytics-irc-client" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../irc-client" />
+            <option value="$PROJECT_DIR$/../chatalytics-irc-client" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../irc-manager" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../chatalytics-irc-manager" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../irc-manager" />
+            <option value="$PROJECT_DIR$/../chatalytics-irc-manager" />
           </set>
         </option>
       </GradleProjectSettings>
