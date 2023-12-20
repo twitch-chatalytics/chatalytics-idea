@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/chatalytics-idea.iml" filepath="$PROJECT_DIR$/.idea/chatalytics-idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatalytics-irc-manager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chatalytics-irc-manager.main.iml" />
     </modules>
   </component>
 </project>
