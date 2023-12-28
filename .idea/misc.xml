@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../chatalytics-core" />
+    <file type="web" url="file://$PROJECT_DIR$/../chatalytics-irc-client" />
     <file type="web" url="file://$PROJECT_DIR$/../chatalytics-irc-manager" />
     <file type="web" url="file://$PROJECT_DIR$/../irc-client" />
     <file type="web" url="file://$PROJECT_DIR$/../irc-manager" />
